@@ -1,0 +1,4 @@
+# Requirements for FloodPulse
+aiohttp==3.9.3
+requests==2.31.0
+faker==24.3.0
